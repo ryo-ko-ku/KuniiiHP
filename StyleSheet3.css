@@ -1,0 +1,18 @@
+﻿body
+{
+}
+*{
+    box-sizing:border-box;
+
+}
+li {
+    color: blue;
+    padding-bottom: 50px;
+}
+.wrapper{
+    padding-top:50px;
+}
+.container{
+    width:220px;
+
+}
