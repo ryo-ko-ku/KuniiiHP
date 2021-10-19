@@ -1,5 +1,6 @@
-﻿body
-{
+﻿body {
+    background-color: #F0F0FF;
+    background-size: cover;
 }
 *{
     box-sizing:border-box;
@@ -11,9 +12,9 @@ li {
 }
 .wrapper{
     padding-top:50px;
-    width:220px;
+    
 }
 .container{
-    width:220px;
+    width:100%;
 
 }
